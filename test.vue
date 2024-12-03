@@ -1,3 +1,3 @@
 <template lang="pug">
-  test
+  .title test
 </template>
